@@ -1,11 +1,23 @@
 {
   "name": "NodeJs-HW",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "repository": "https://github.com/Igor-Tomilo/NodeJs-HW.git",
-  "author": "Igor <70631855+Igor-Tomilo@users.noreply.github.com>",
-  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-Tomilo/NodeJs-HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-Tomilo/NodeJs-HW/issues"
+  },
+  "homepage": "https://github.com/Igor-Tomilo/NodeJs-HW#readme",
   "dependencies": {
-    "nodemo": "^1.0.0"
+    "nodemon": "^2.0.12"
   }
 }
